@@ -1,8 +1,6 @@
 # Omagize
 
 This project is a simple Modern Web Chat App
-<br>
-Go to The [App Source](./apps/web/)
 
 in-App Screenshot (old)
 ![alt text](./documents/screenshot.svg)
